@@ -17,13 +17,6 @@ I enjoy simplifying complex ideas and turning them into experiences that feel **
 💻 Creative Technology  
 🧪 Design Experiments  
 
-
-## ✨ Explore my work
-
-**Portfolio** https://nozanin-designer.webflow.io/ <br>
-**Behance** https://www.behance.net/nozaninnazarova
-
-
 ## 🧰 Toolkit
 
 #### 🎨 Design & Creative
