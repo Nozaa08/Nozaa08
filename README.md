@@ -1,4 +1,4 @@
-# ✦ Hey, I'm Noza👋
+# 👋Hey, I'm Noza
 
 ### 🎨 UX/UI Designer · 🧠 Creative Thinker · ✨ Digital Explorer
 
