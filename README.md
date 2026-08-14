@@ -1,16 +1,54 @@
-## Hi there 👋
+# ✦ Hey, I'm Noza👋
 
-<!--
-**Nozaa08/Nozaa08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 UX/UI Designer · 🧠 Creative Thinker · ✨ Digital Explorer
 
-Here are some ideas to get you started:
+> ✨ Turning ideas into visuals, interfaces & digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about **visual design, UI/UX, digital experiences, and creative technology**.  
+I enjoy simplifying complex ideas and turning them into experiences that feel **clear, intuitive & beautiful.**
+
+
+## 🎨 What I'm Into
+
+🖥️ UI & Visual Design  
+📱 Web & Mobile Experiences  
+🧩 Interaction & Prototyping  
+📸 Digital Media & Storytelling  
+💻 Creative Technology  
+🧪 Design Experiments  
+
+
+## ✨ Explore My Work
+
+**Portfolio** https://nozanin-designer.webflow.io/ <br>
+**Behance** https://www.behance.net/nozaninnazarova
+
+
+## 🧰 Toolkit
+
+#### 🎨 Design & Creative
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+
+#### 💻 Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🛠️ Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+
+## 💌 Let's Create Something
+
+**Email:** nozaninanazarova15@gmail.com <br>
+**Telegram:** @noza_nazz
+
+<p align="center">
+
+> stay curious • keep creating • make things beautiful🌷
+
+</p>
