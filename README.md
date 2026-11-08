@@ -13,9 +13,7 @@ I enjoy simplifying complex ideas and turning them into experiences that feel **
 🖥️ UI & Visual Design  
 📱 Web & Mobile Experiences  
 🧩 Interaction & Prototyping  
-📸 Digital Media & Storytelling  
-💻 Creative Technology  
-🧪 Design Experiments  
+📸 Digital Media & Storytelling   
 
 ## 🧰 Toolkit
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
